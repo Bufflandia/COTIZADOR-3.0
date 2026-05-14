@@ -1,5 +1,3 @@
-# COTIZADOR-3.0
-es una web realizada únicamente para realizar cotizaciones 
 <!DOCTYPE html>
 <html lang="es">
 <head>
